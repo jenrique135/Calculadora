@@ -1,0 +1,31 @@
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\bin\Debug\Teste.exe.config
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\bin\Debug\Teste.exe
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\bin\Debug\Teste.pdb
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.exe
+C:\Users\joao11199296\Desktop\Joao Enrique\C# Visual Studio\Teste\obj\Debug\Teste.pdb
+C:\Users\joaob\Documents\C# Visual Studio\Teste\bin\Debug\Teste.exe.config
+C:\Users\joaob\Documents\C# Visual Studio\Teste\bin\Debug\Teste.exe
+C:\Users\joaob\Documents\C# Visual Studio\Teste\bin\Debug\Teste.pdb
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.exe
+C:\Users\joaob\Documents\C# Visual Studio\Teste\obj\Debug\Teste.pdb
+C:\Users\joaob\Documents\Codigos\C#\Teste\bin\Debug\Teste.exe.config
+C:\Users\joaob\Documents\Codigos\C#\Teste\bin\Debug\Teste.exe
+C:\Users\joaob\Documents\Codigos\C#\Teste\bin\Debug\Teste.pdb
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.exe
+C:\Users\joaob\Documents\Codigos\C#\Teste\obj\Debug\Teste.pdb
